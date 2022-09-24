@@ -7,4 +7,4 @@ Uses Ubuntu focal and the latest Janus version form the offical git. If dependec
 
 Run this to build the image. 
 
-''' docker build -t <image-name> .''' 
+```docker build -t <image-name> .``` 
